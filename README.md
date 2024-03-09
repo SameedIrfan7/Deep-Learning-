@@ -1,2 +1,3 @@
 # Deep-Learning
-## Yet the code to be updated soon, inshallah 
+A multi classification project based on deep learning and NL,
+to find the dog breed classifier
